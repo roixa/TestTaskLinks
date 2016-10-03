@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestTaskLinks</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="getLinks">Get links</string>
+    <string name="pageNotFound">Page not found</string>
+    <string name="notConnected">Unable to connect to internet</string>
+
+</resources>
